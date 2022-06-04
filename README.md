@@ -20,7 +20,7 @@
 <br/>
 <br/>
   
-- 📗 [***NoniProJect***]([https://github.com/Eilaluth/Ayano](https://www.artstation.com/artwork/qArXVR)) <br/>
+- ^_____^ [***NoniProJect***] (https://www.artstation.com/artwork/qArXVR)
 
 
 
