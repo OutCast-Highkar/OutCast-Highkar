@@ -1,4 +1,4 @@
-![278795873_1023274328618615_3817301844314123999_n](https://user-images.githubusercontent.com/106883231/172021105-aa0e690e-85c0-4610-bfaf-8ca9341c815e.jpg)
+
 <div>
 <img src="./img/Profile-elaina.png" width="300" align="right" />
 <br/>
@@ -10,7 +10,7 @@
 
 - Live in **VN**
 
-- Website [***Computer And Network Engineering***](https://vvaprox.com/)
+- Website [***My Website***](https://vvaprox.com/)
 
 - Good with **Java** & **Php**
 
@@ -21,7 +21,6 @@
 <br/>
   
 - 📗 [***NoniProJect***]([https://github.com/Eilaluth/Ayano](https://www.artstation.com/artwork/qArXVR)) <br/>
- .!
 
 
 
