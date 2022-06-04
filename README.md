@@ -5,9 +5,9 @@
 <br/>
 <br/>
   
-- Name **Reidho Satria**
+- Name **OutCast**
 
-- Live in **Palembang, Indonesia**
+- Live in **VN**
 
 - Studying [***Computer And Network Engineering***](https://smkn4palembang.sch.id/)
 
