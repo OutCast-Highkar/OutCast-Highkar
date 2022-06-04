@@ -24,7 +24,7 @@
 
 
 
-<br/>
+
 <img src="./img/banner-elainaa.png" width="500" /><br/>
 <br/>  
 <sub> ***Kẻ có ác ý có thể làm những điều xấu xa mà không cần nói dối. Và không phải tất cả những kẻ nói dối đều xấu xa. – Elaina*** </sub>
